@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "job-interview-tracker": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/robertnovotny/GIT/MCPServer/build/libs/job-interview-tracker-mcp-1.0.0.jar"
+      ]
+    }
+  }
+}
